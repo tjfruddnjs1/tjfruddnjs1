@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**tjfruddnjs1/tjfruddnjs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on JeonBuk UNIV
+- 🌱 I’m currently learning Web Language
 
-Here are some ideas to get you started:
+1. front-end : HTML + CSS + JavaScript
+2. Back-end : NodeJS
+3. Data-Structure & Algorithm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Web Project
+- 📫 How to reach me: tjfruddnjs12@naver.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tjfruddnjs1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjfruddnjs1&count_bg=%2360DBC2&title_bg=%23E5D60C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
