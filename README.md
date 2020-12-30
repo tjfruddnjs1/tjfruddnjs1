@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Language
 
 1. front-end : HTML + CSS + JavaScript
-2. Back-end : NodeJS(Planning)
+2. Back-end : NodeJS
 3. Data-Structure & Algorithm
 
 - 📫 How to reach me: tjfruddnjs12@naver.com
