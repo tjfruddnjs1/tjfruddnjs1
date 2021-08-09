@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on JeonBuk UNIV
 - 🌱 I’m currently learning Web Language
 
-1. front-end : HTML + CSS + JavaScript
+1. front-end : EJS, React , React Native 
 2. Back-end : NodeJS
 3. Data-Structure & Algorithm
 
