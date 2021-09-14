@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Language
 
 1. front-end : EJS, React , React Native 
-2. Back-end : NodeJS
+2. Back-end : NodeJS, Java Spring
 3. Data-Structure & Algorithm
 
 - 📫 How to reach me: tjfruddnjs12@naver.com
